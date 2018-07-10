@@ -16,8 +16,8 @@ def change_rainbow_colors
 end
 
 def add_colors
-array = []
-array = ["red","light_red","light_yellow"]
-array.push "green"
-array.push "blue"
+  array = []
+  array = ["red","light_red","light_yellow"]
+  array.push "green"
+  array.push "blue"
 end
